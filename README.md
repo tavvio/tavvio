@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tavvio
+- 👀 I’m interested in learning about software development
+- 🌱 I’m currently learning PHP
