@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @tavvio
+- 👋 Hi, I’m @vato
 - 👀 I’m interested in learning about software development
-- 🌱 I’m currently learning PHP
+- I’m currently learning JavaScript
