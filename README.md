@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @vato
-- 👀 I’m interested in learning about software development
-- I’m currently learning JavaScript
+- 👋 Olá, eu sou o @tavvio, ou Otávio.
