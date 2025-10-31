@@ -3,7 +3,6 @@
 Sou desenvolvedor front-end apaixonado por tecnologia, performance e boas experiências digitais.
 Atuo criando interfaces modernas e escaláveis com foco em e-commerce e produtos digitais.
 
----
 
 ## 🚀 Tech Stack
 
@@ -14,14 +13,17 @@ Atuo criando interfaces modernas e escaláveis com foco em e-commerce e produtos
 - VTEX IO / Faststore
 - Shopify (Liquid templates e customizações)
 
-### Ferramentas e Boas Práticas
+### Em aprendizado constante
+Atualmente me aprofundando em:
+- Next.js (SSR, SSG e arquitetura escalável)
+- Boas práticas de acessibilidade e SEO técnico
 
+### Ferramentas e Boas Práticas
 - ESLint • Prettier • Husky
 - Styled Components / SCSS / Tailwind
 - Apollo Client • React Query • Axios
 
-## Experiência com e-commerce
-
+### Experiência com e-commerce
 Tenho experiência prática em:
 - Criação e manutenção de lojas VTEX IO / Faststore
 - Customizações e integrações Shopify (Liquid + JS)
